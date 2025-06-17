@@ -14,13 +14,13 @@ int main(){
     printf("\n");
 
     if(bruteForce(arr, n)) {
-        printf("Mang co phan tu trung lap\n);
+        printf("Mang co phan tu trung lap\n");
     }else{
         printf("mang khong co phan tu trung lap\n)");
     }
 
     if(flag(arr, n)) {
-        printf("Mang co phan tu trung lap\n);
+        printf("Mang co phan tu trung lap\n");
     }else{
         printf("mang khong co phan tu trung lap\n)");
     }
