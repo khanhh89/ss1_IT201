@@ -3,7 +3,7 @@
 int main() {
     int n = 4;
     int*a = mallocArray(n);
-    for (int i =0; i<n; I++) {
+    for (int i =0; i<n; i++) {
         printf("%d\n", a[i]);
     }
 }
